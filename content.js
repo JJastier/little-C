@@ -15,17 +15,17 @@ window.BIRTHDAY_CONTENT = Object.freeze({
 
   scenes: {
     entry: {
-      kicker: "Un pequeño paréntesis",
+      kicker: "Un pequeño paréntesis en tu día",
       initial: "C",
-      lead: "Tengo algo pequeño para ti.",
-      note: "No se abre inmediatamente.",
+      lead: "Tengo algo pequeño para ti...",
+      note: "No se abre inmediatamente, tienes que esforzarte",
       button: "Abrir"
     },
 
     memory: {
       number: "01",
       title: "Antes de continuar...",
-      prompt: "Piensa por un momento en alguna de esas comidas especiales que aparecían cualquier día, sin necesitar una ocasión.",
+      prompt: "Piensa por un momento, qué hacíamos o consegíamos cualquier día???, sin necesitar una ocasión, motivo o razón (porque si no había, lo buscabamos).",
       button: "Ya tengo una"
     },
 
@@ -35,12 +35,12 @@ window.BIRTHDAY_CONTENT = Object.freeze({
       options: [
         {
           id: "flower",
-          label: "Una flor",
+          label: "Una flor inesperada",
           feedback: "Cerca... pero no."
         },
         {
           id: "gift",
-          label: "Un regalo",
+          label: "Un regalo imprevisto",
           feedback: "Tampoco necesitábamos una ocasión, pero otra cosa."
         },
         {

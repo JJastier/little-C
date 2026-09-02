@@ -41,12 +41,12 @@ window.BIRTHDAY_CONTENT = Object.freeze({
         {
           id: "gift",
           label: "Un regalo",
-          feedback: "Tampoco necesitábamos una ocasión."
+          feedback: "Tampoco necesitábamos una ocasión, pero otra cosa."
         },
         {
           id: "meal",
           label: "Una comida",
-          feedback: "Sí. Esa era fácil.",
+          feedback: "Sí. Esa era fácil, somos bien tragones.",
           unlocks: true
         }
       ],
@@ -57,9 +57,9 @@ window.BIRTHDAY_CONTENT = Object.freeze({
       title: "Feliz cumpleaños.",
       paragraphs: [
         "Hay personas que, aunque el tiempo cambie muchas cosas, dejan recuerdos bonitos que siguen teniendo un lugar especial.",
-        "De ti recuerdo especialmente tu ternura, esas comidas especiales que aparecían cualquier día y la forma en que estuviste a mi lado cuando realmente importaba.",
+        "De ti recuerdo especialmente tu ternura, esas comidas especiales capaces de volver especial cualquier día, y la forma en que estuviste a mi lado cuando realmente importaba.",
         "Parte del hombre que soy hoy también se construyó contigo.",
-        "Espero que este nuevo año te traiga mucha tranquilidad y cosas bonitas."
+        "Espero que este nuevo año te traiga mucha tranquilidad y muchas cosas bonitas. Te las mereces."
       ],
       closingLead: "Feliz día",
       closingInitial: "C"
